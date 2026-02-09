@@ -109,7 +109,7 @@ src
 **Durante el desarrollo se implementaron validaciones claras para mejorar la experiencia del usuario y evitar errores comunes:**
 
 
-* Gestión de Duplicados: Antes de cada registro, el sistema verifica:**
+* **Gestión de Duplicados: Antes de cada registro, el sistema verifica:**
 
 ⚠️ El libro ya está registrado en la base de datos local.
 
